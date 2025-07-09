@@ -1,8 +1,20 @@
+---
+title: Week 1 of the Visual Note Taking Experiment
+date: 2025-06-22
+draft: false
+tags:
+- Tiny_experiments_chapter_1
+- Goal_setting_framework
+- proactive_life
+---
+
 Started off my challenge by creating three visual notes of which two for summarizing Chapter 1 "Why goal setting is broken" of the Tiny Experiments book  📖. One visual note for elaborating the idea of three cognitive scripts.
 
 1. My take of answering the question "Why goal setting is broken" is that the goal setting framework is broken not our ambitions.
 
 ![My first take away from Chapter 1](/drawings/week01/when_a_measure_becomes_a_traget_quote_1.png)
+
+
 2. When a heavy load of uncertainty looms over us, instead of closing our eyes and waiting or escaping we could choose to **move** to explore the possibilities of this in-between space. Because in this space lies the freedom that is truly mine. This reminds me of the quote from the book "Man's search for meaning" by a psychologist and Auschwitz survivor Viktor Frankl, which goes like this,
 
 >> “Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”― Viktor E. Frankl
