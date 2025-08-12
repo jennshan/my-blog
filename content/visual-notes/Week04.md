@@ -8,4 +8,4 @@ This week is about mindful productivity. How to implement my pact with lots of f
 
 | Beyond Time Management                                                                 | What is Procrastination                                                                         | How to work with procrastination                                                   |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ![Take away 1](/drawings/week04/Illustration-beyondtimemanagement-TinyExperiments.png) | ![Take away 2](/drawings/week04/Illustration-turnprocrastinationonitsheads-TinyExperiments.png) | ![Take away 2](/drawings/week04/Illustration-triplecheck-Tiny Experiments.png)<br> |
+| ![Take away 1](/drawings/week04/Illustration-beyondtimemanagement-TinyExperiments.png) | ![Take away 2](/drawings/week04/Illustration-turnprocrastinationonitsheads-TinyExperiments.png) | ![Take away 3](/drawings/week04/Illustration-triplecheck-Tiny Experiments.png.png) |
